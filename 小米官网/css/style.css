@@ -2,3 +2,69 @@
     margin: 0;
     padding: 0;
 }
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.limian a{
+    font-size: 12px;
+    color: #b0b0b0;
+}
+.banne a{
+    display: block;
+    height: 120px;
+    background: url("../image/banne.jpg") no-repeat center 0;
+}
+.daohang1{
+    background: #333;
+    height: 40px;
+}
+.limian {
+    width: 1226px;
+    margin: 0 auto;
+    height: 40px;
+}
+.daohang1 span{
+    color: #424242;
+    margin: 0 5px;
+}
+.limian li{
+    float: left;
+    line-height: 40px;
+    height: 40px;
+}
+.user{
+    float: right;
+}
+.iconfont{
+    color: whitesmoke;
+   font-weight: 900;
+}
+.gwc{
+    background: gray;
+    width: 120px;
+    text-align: center;
+}
+.gw{
+    width: 100%;
+    height: 100%;
+}
+.gw:hover{
+    background: white;
+    color: orangered;
+}
+.daohang2{
+    width: 1226px;
+    height: 100px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo a{
+   display: block;
+    height: 55px;
+    width: 55px;
+    background: url("../image/mi-logo.png") no-repeat center 0 orangered;
+    margin-top: 22px;
+}
